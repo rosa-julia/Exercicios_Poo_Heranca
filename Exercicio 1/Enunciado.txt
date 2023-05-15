@@ -1,0 +1,5 @@
+a. Crie as classes solicitadas.
+b. Faça o relacionamento (herança) entre as classes.
+c. Defina a saída dos dados (toString()) nas classes indicadas. A classe onde tem a indicação
+é onde estará a saída – toString().
+d. Faça a classe de teste e execute.
